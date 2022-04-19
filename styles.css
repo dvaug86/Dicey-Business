@@ -1,0 +1,29 @@
+.buttons_container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+.die_Container{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items: center;
+    padding: 20px;
+}
+
+.dice{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    font-size: 25px;
+    color: black;
+    border: 5px solid black;
+    border-radius: 20%;
+
+}
